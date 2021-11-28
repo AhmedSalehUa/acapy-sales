@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00bfa5</color>
+    <color name="colorPrimaryDark">#008e76</color>
+    <color name="colorAccent">#5df2d6</color>
+    <color name="loginShape">#008e76</color>
+    <color name="catColor">#008e76</color>
+    <color name="textShadow">#a4a2a2</color>
+    <color name="editorColorPrimary">#2D3640</color>
+    <color name="fui_transparent">#00000000</color>
+    <color name="toolbar_text">#F44336</color>
+    <color name="toolbar">#F44336</color>
+    <color name="event_color_01">#351E1C</color>
+    <color name="event_color_02">#F44336</color>
+    <color name="event_color_03">#F44336</color>
+    <color name="event_color_04">#F44336</color>
+    <color name="textinputs">#E1E1E1</color>
+</resources>

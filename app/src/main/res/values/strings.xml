@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AcapySales</string>
+    <string name="UserName">USERNAME</string>
+    <string name="content_description_end_icon">UserName</string>
+    <string name="Password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="MainActivity">Home</string>
+    <string name="calls">Calls</string>
+    <string name="clients">Clients</string>
+    <string name="todo">To Do List</string>
+    <string name="logout">Logout</string>
+    <string name="Upload">Login</string>
+    <string name="Error">Username or Password is incorrect</string>
+    <string name="Complete">done</string>
+    <string name="Calendar">todo Calender</string>
+    <string name="addDescription">Add Details</string>
+    <string name="AddCall">Add New Call</string>
+    <string name="addOrder_date">Date</string>
+    <string name="addOrder_time">Time</string>
+    <string name="choose">Client</string>
+    <string name="addOrder_client">Client</string>
+    <string name="orgName">Organization Name</string>
+    <string name="name">Client Name</string>
+    <string name="relation">Relation</string>
+    <string name="loca">Location</string>
+    <string name="mail">E-Mail</string>
+    <string name="tele1">Tele 1</string>
+    <string name="tele2">Tele 2</string>
+    <string name="addClient">Add Client</string>
+</resources>
